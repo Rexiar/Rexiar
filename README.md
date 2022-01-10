@@ -11,5 +11,7 @@ My Current Project: Twitter Autobase Bot ([@ptnmenfess](https://twitter.com/ptnm
 
 <details>
  <summary>More GitHub info!</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexiar&count_private=true)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexiar&show_icons=true&theme=dark)
+
 </details>
