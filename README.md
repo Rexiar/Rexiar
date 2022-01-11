@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/raditya-prabowo-612682216/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/24343313/148800372-795838bf-10a3-4342-afda-4797528a7e21.png" height="27" /></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rexiar.visitor-badge)
 ### Hi there, i'm Ditya aka Rexiar!👋
-I am an undergraduate Information Engineering student at Gadjah Mada University in Indonesia. I really like figuring out and solving problems, thus this is why I like programming. I take pride whenever I get up after failing (I fail alot haha).
+I am an undergraduate Information Engineering student at Gadjah Mada University in Indonesia. I really like figuring out and solving problems and take pride whenever I get up after failing (I fail alot haha).
 My hobby is gaming. I play all sorts of games, including First Person Shooters, Puzzles, and Open World games. Games are a really big part of my life. That's why I want to become a game developer.
 
 My Current Project: Twitter Autobase Bot ([@ptnmenfess](https://twitter.com/ptnmenfess "ptnmenfess"))
