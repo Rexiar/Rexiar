@@ -7,7 +7,7 @@
 I am an undergraduate Information Engineering student at Gadjah Mada University in Indonesia. I really like figuring out and solving problems and take pride whenever I get up after failing (I fail alot haha).
 My hobby is gaming. I play all sorts of games, including First Person Shooters, Puzzles, and Open World games. Games are a really big part of my life. That's why I want to become a game developer.
 
-My Current Project: Twitter Autobase Bot ([@ptnmenfess](https://twitter.com/ptnmenfess "ptnmenfess"))
+My Current Project: Twitter Autobase Bot ([@ptnmenfess](https://twitter.com/ptnmenfess "ptnmenfess") and [@BotSurat](https://twitter.com/BotSurat "BotSurat"))
 
 <details>
  <summary>More GitHub info!</summary>
